@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.038,=C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageListButton.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageListButton.pas=C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageLabelButton.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageListButton_P_XE7.dproj=C:\Users\Владимир\Documents\Embarcadero\Studio\Projects\ImageListButton_P.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageListButton_P.dproj=C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageLabelButton_P.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageListButtonInstall.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.532,C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageListButtonInstall.pas=C:\Програмирование\Delphi\Мои проекты\Мои компоненты\TImageListButton\ImageLabelButtonInstall.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,C:\Users\Владимир\Documents\Embarcadero\Studio\Projects\ImageListButton_P.dproj=C:\Users\Владимир\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
